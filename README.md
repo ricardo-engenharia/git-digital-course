@@ -1,4 +1,4 @@
-# Curso Digital: Git/Versionamento
+# Curso Digital: Git
 
-# Salvando Modificações no Git
-# Após o commit e diff
+## Salvando alterações no Git
+* uso do comando restore
